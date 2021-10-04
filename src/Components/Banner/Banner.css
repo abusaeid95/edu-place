@@ -1,0 +1,21 @@
+.banner{
+    justify-content: center;
+    align-items: center;
+}
+
+.bannertext{
+    color: #309255;
+}
+
+.banner-btn{
+    background-color: #309255;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.banner-btn:hover{
+ background-color: #1f2020f5;
+ border:2px solid rgb(227, 35, 245);
+}

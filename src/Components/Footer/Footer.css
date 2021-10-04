@@ -1,0 +1,14 @@
+.fcolor{
+    color: green;
+}
+.subs-btn{
+    background-color: #309255;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 171px;
+    font-weight: 500;
+}
+.subs-btn:hover{
+    background-color: black;
+}

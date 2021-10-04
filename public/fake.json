@@ -1,0 +1,110 @@
+[
+   {
+       "id": "15727781",
+       "nam": "Jason Williams",
+       "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-01.jpg",
+       "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-01.jpg",
+       "category": "Science",
+       "title": "Data Science and Machine Learning with Python - Hands On!",
+       "time": "08 hr 15 min",
+       "lectures": "29",
+       "price": 385.00,
+        "rating": "4.7"
+   },
+   {
+    "id": "15727782",
+    "nam": "Brand Gibson",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-02.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-02.jpg",
+    "category": "Science",
+    "title": "Create Amazing Color Schemes for Your UX Design Projects",
+    "time": "08 hr 15 min",
+    "lectures": "29",
+    "price": 420.00,
+    "rating": "4.4"
+},
+{
+    "id": "15727783",
+    "nam": "Rose Simmons",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-04.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-03.jpg",
+    "category": "Science",
+    "title": "Culture & Leadership: Strategies for a Successful Business",
+    "time": "08 hr 15 min",
+    "lectures": "29",
+    "price": 295.00,
+    "rating": "4.5"
+},
+{
+    "id": "15727784",
+    "nam": "Pamela Foster",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-05.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-04.jpg",
+    "category": "Finance",
+    "title": "Finance Series: Learn to Budget and Calculate your Net Worth.",
+    "time": "08 hr 15 min",
+    "lectures": "29",
+    "price": 136.00,
+    "rating": "4.9"
+},
+{
+    "id": "15727785",
+    "nam": "Lewis Long",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-03.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-05.jpg",
+    "category": "Marketing",
+    "title": "Build Brand Into Marketing: Tackling the New Marketing Landscape",
+    "time": "08 hr 15 min",
+    "lectures": "29",
+    "price": 237.00,
+    "rating": "4.9"
+},
+{
+    "id": "15727786",
+    "nam": "Charlene Bates",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-06.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-06.jpg",
+    "category": "Design",
+    "title": "Graphic Design: Illustrating Badges and Icons with Geometric Shapes",
+    "time": "08 hr 15 min",
+    "lectures": "29",
+    "price": "Free",
+    "rating": "4.9"
+},
+{
+    "id": "15727787",
+    "nam": "Larry Cole",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-01.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-02.jpg",
+    "category": "Science",
+    "title": "Finance Series: Learn to Budget and Calculate your Net Worth.",
+    "time": "4 hr 40 min",
+    "lectures": "22",
+    "price": 190.00,
+    "rating": "4.00"
+},
+{
+    "id": "15727788",
+    "nam": "Tom Simpson",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-04.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-04.jpg",
+    "category": "Science",
+    "title": "Build Brand Into Marketing: Tackling the New Marketing Landscape",
+    "time": "6 hr 30 min",
+    "lectures": "16",
+    "price": 280.00,
+    "rating":"4.9"
+},
+{
+    "id": "15727789",
+    "nam": "Zachary Young",
+    "author":"https://template.hasthemes.com/edule/eduLe/assets/images/author/author-02.jpg",
+    "img": "https://template.hasthemes.com/edule/eduLe/assets/images/courses/courses-01.jpg",
+    "category": "Science",
+    "title": "Create Amazing Color Schemes for Your UX Design Projects",
+    "time": "5 hr 30 min",
+    "lectures": "22",
+    "price": 321.00,
+    "rating":"4.00"
+}
+]
