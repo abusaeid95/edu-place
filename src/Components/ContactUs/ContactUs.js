@@ -1,4 +1,6 @@
+import Button from '@restart/ui/esm/Button';
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 const Contact = () => {
     return (
@@ -12,19 +14,43 @@ const Contact = () => {
             </div>
             <div className="col">
                 <h2>Get in Touch <span>With Us</span></h2>
-                <div>
-                    <div>
-                    <input type="text" name="" id="" placeholder="Name"/>
+                <Container className="my-5">
+                <form class="form-horizontal" >
+                    <div class="form-group">
+                        <label for="name" class="col-sm-2 control-label">Name</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="" />
+                        </div>
                     </div>
-                  
-                    <div className="my-2">
-                    <input type="email" name="" id="" placeholder="Email"/>
+                    <div class="form-group">
+                        <label for="email" class="col-sm-2 control-label">Email</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="" />
+                        </div>
                     </div>
-                    
-                    <div><input type="text" name="" id="" placeholder="Subject"/></div>
-                    
-                    <div><textarea className="mt-2" name="" id="" cols="30" rows="10" placeholder="Message"></textarea></div>
-                </div>
+                    <div class="form-group">
+                        <label for="message" class="col-sm-2 control-label">Message</label>
+                        <div class="col-sm-10">
+                            <textarea class="form-control" rows="4" name="message"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="human" name="human" placeholder="Your Answer" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-10 col-sm-offset-2">
+                            <Button className="btn-contact">Submit</Button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-10 col-sm-offset-2">
+                        </div>
+                    </div>
+                </form>
+            </Container>
             </div>
         </div>
     );
