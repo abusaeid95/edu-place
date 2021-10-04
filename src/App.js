@@ -19,7 +19,7 @@ function App() {
           <Route exact path="/">
             <Home></Home>
           </Route>
-          <Route exact path="/home">
+          <Route path="/home">
             <Home></Home>
           </Route>
           <Route path="/service">
@@ -31,7 +31,7 @@ function App() {
           <Route path="/aboutus">
             <AboutUs></AboutUs>
           </Route>
-          <Route path='/notfound'>
+          <Route path='*'>
             <NotFound></NotFound>
           </Route>
         </Switch>
