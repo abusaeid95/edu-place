@@ -3,7 +3,7 @@ import Courses from '../Courses/Courses';
 
 const Blogs = () => {
     return (
-        <div className="container">
+        <div className="container mt-5">
             <Courses></Courses>
         </div>
     );
