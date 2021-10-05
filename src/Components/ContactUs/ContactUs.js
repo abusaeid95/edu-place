@@ -42,7 +42,7 @@ const Contact = () => {
                     </div>
                     <div class="form-group">
                         <div class="col-sm-10 col-sm-offset-2">
-                            <Button className="btn-contact">Submit</Button>
+                            <Button className="subs-btn mt-3">Submit</Button>
                         </div>
                     </div>
                     <div class="form-group">
