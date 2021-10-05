@@ -9,3 +9,7 @@
     display: inline;
     font-size: 20px;
 }
+.ficon:hover{
+    background-color: rgba(10, 134, 236, 0.883);
+    cursor: pointer;
+}
